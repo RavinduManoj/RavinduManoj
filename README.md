@@ -1,6 +1,6 @@
-<h2 align="center">Hi 🇱🇰 I'm <br>Ravindu Manoj</h1>
+<h1 align="center">Hi 🇱🇰 I'm <br>Ravindu Manoj</h1>
 <h4 align="center">I am a simple developer. Not more..</h3>
-<h7 align="left">Moreover, I am the co-owner of the first project in the world. <br>WhatsRaviya 🐺</h7>
+<h7 align="left">Moreover, I am the co-owner of the first project in the world. <br>WhatsRaviya 🇱🇰</h7>
 
 ##
 <p align="center">
